@@ -8,11 +8,12 @@ Sivas Cumhuriyet Üniversitesi kampüs yaşamını dijitalleştirmek ve kullanı
   
 Kullanılan Teknolojiler:
 
-*Framework: Flutter 
-*Dil: Dart 
-*Versiyon Kontrol: Git & GitHub
+* Framework: Flutter 
+* Dil: Dart 
+* Versiyon Kontrol: Git & GitHub
 
 Kurulum
+
 Projeyi yerel cihazınızda çalıştırmak için:
 
 1.Depoyu forklayın veya klonlayın.
@@ -20,7 +21,8 @@ Projeyi yerel cihazınızda çalıştırmak için:
 2.Terminalde flutter pub get komutunu çalıştırın.
 
 3.flutter run ile uygulamayı başlatın.
-UYGULAMA GÖRÜNTÜLERİ:
+
+ UYGULAMA GÖRÜNTÜLERİ:
 
 <img width="1080" height="2400" alt="Kay─▒tOlSyafas─▒" src="https://github.com/user-attachments/assets/c6cda283-8561-4efe-a739-a762058f1714" />
 <img width="1080" height="2400" alt="HaritaSayfas─▒" src="https://github.com/user-attachments/assets/3f8ba0d7-ee41-4866-8acd-e5bd7fda4ed8" />
